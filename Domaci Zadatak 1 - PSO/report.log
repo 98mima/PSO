@@ -1,0 +1,52 @@
+2021-12-12 17:27:17,810 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize (error code 0x17)
+2021-12-12 17:27:17,907 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize (error code 0x17)
+2021-12-12 17:27:18,147 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2021-12-12 17:27:18,443 - matplotlib.font_manager - INFO - generated new fontManager
+2021-12-12 17:27:18,929 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:27:19,107 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.2358692177832124e-42, best pos: [ 1.09643805e-21 -1.83556015e-22]
+2021-12-12 17:27:21,013 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-12-12 17:27:21,013 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-12-12 17:32:20,894 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:32:21,080 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.6637935908340508e-41, best pos: [-2.64496922e-21  3.10516887e-21]
+2021-12-12 17:32:23,736 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-12-12 17:32:23,736 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-12-12 17:34:28,359 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:34:28,541 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.1932925323176086e-43, best pos: [-3.45079969e-22  1.57818857e-23]
+2021-12-12 17:34:31,107 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-12-12 17:34:31,107 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-12-12 17:38:01,423 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:38:01,679 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.141382225682997e-42, best pos: [ 1.40150014e-21 -4.20927039e-22]
+2021-12-12 17:38:04,397 - matplotlib.animation - WARNING - MovieWriter ffmpeg unavailable; using Pillow instead.
+2021-12-12 17:38:04,397 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2021-12-12 17:58:57,674 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:58:57,837 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.5461550660911175e-43, best pos: [-2.92924064e-22 -4.10866158e-22]
+2021-12-12 17:59:54,195 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 17:59:54,343 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.5763434360345304e-46, best pos: [-8.58675680e-24 -9.15980083e-24]
+2021-12-12 18:01:35,861 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 18:01:36,019 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.9627996222516108e-43, best pos: [-1.60610722e-22  4.12897273e-22]
+2021-12-12 18:01:50,399 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 18:01:50,546 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.612884796279008e-44, best pos: [-5.22778463e-23  1.15740549e-22]
+2021-12-12 22:28:27,794 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2021-12-12 22:28:27,806 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize (error code 0x17)
+2021-12-12 22:28:27,993 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize (error code 0x17)
+2021-12-12 22:28:28,113 - matplotlib.font_manager - INFO - generated new fontManager
+2021-12-12 22:28:28,903 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:28:29,133 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.8073268881986555e-43, best pos: [-1.67225360e-22  3.90855942e-22]
+2021-12-12 22:29:56,423 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:29:56,589 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.3594597704627607e-41, best pos: [-4.85628649e-21  1.05258131e-22]
+2021-12-12 22:30:28,160 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:30:28,319 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.4668134946121415e-44, best pos: [-1.19272344e-22  2.10295721e-23]
+2021-12-12 22:30:36,972 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:30:37,130 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 5.435166158197153e-42, best pos: [1.06421113e-23 2.33131999e-21]
+2021-12-12 22:31:19,229 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:31:19,398 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 6.07341210567035e-44, best pos: [ 2.45062198e-22 -2.60507244e-23]
+2021-12-12 22:31:59,099 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:31:59,482 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.511647713695075e-42, best pos: [ 1.22905247e-21 -3.28289601e-23]
+2021-12-12 22:34:20,556 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:34:20,806 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.5292965372730863e-44, best pos: [-6.40445553e-23 -1.45572182e-22]
+2021-12-12 22:34:35,573 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:34:35,911 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 6.40350268473762e-45, best pos: [ 4.72803552e-23 -6.45605971e-23]
+2021-12-12 22:34:52,995 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 22:34:53,269 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.2476221285643675e-44, best pos: [-3.83485479e-23  1.04907627e-22]
+2021-12-12 23:10:34,646 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-12-12 23:10:34,807 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 8.2334122756588e-45, best pos: [ 8.60135231e-23 -2.88978567e-23]
